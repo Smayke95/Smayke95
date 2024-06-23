@@ -1,4 +1,6 @@
 # 💫 About Me:
+I'm a skilled .NET developer with a solid background in C#, ASP.NET, and .NET Core. With a focus on creating efficient software solutions 
+and staying updated on the latest .NET trends, I'm committed to delivering high-quality code and contributing to successful projects.
 🔭 I’m currently working as Team Lead at MAUS.ba
 
 # 💻 My Technologies:
