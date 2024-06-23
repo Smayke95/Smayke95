@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working as Team Lead at MAUS.ba
 
-# 💻 Tech Stack:
+# 💻 My Technologies:
 ![C#](https://img.shields.io/badge/C%23-%23d456ff?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.Net-%23d456ff?style=for-the-badge&logo=dotnet&logoColor=white)
 ![MS SQL](https://img.shields.io/badge/MS%20SQL-%23d456ff?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
@@ -43,6 +43,15 @@
 ![Apollo GraphQL](https://img.shields.io/badge/apollo%20graphql-%23d456ff?style=for-the-badge&logo=apollographql&logoColor=white)
 ![Umbraco](https://img.shields.io/badge/umbraco-%23d456ff?style=for-the-badge&logo=umbraco&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23d456ff?style=for-the-badge&logo=github&logoColor=white)
+![Windows](https://img.shields.io/badge/windows-%23d456ff?style=for-the-badge&logo=windows&logoColor=white)
+![Office](https://img.shields.io/badge/office-%23d456ff?style=for-the-badge&logo=microsoft&logoColor=white)
+![Asana](https://img.shields.io/badge/asana-%23d456ff?style=for-the-badge&logo=asana&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23d456ff?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Material Design](https://img.shields.io/badge/material%20design-%23d456ff?style=for-the-badge&logo=materialdesign&logoColor=white)
+![Lit](https://img.shields.io/badge/Lit-%23d456ff?style=for-the-badge&logo=lit&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-%23d456ff?style=for-the-badge&logo=vite&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-%23d456ff?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-%23d456ff?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
