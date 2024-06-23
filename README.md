@@ -1,10 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working as Team Lead at MAUS.ba
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anes.smajic95) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anes-smajic) 
-
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/C%23-%23d456ff?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.Net-%23d456ff?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -19,7 +15,7 @@
 ![Angular](https://img.shields.io/badge/Angular-%23d456ff?style=for-the-badge&logo=angular&logoColor=white)
 ![Angular JS](https://img.shields.io/badge/Angular%20JS-%23d456ff?style=for-the-badge&logo=angular&logoColor=white)
 
-### ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
